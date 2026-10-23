@@ -5,6 +5,8 @@
 # nothing more ... but change a bit the content of this renamed file, to show some 
 # commitment :-) 
 
+#Hope this finds you well (keeping my fingers crossed!)
+
 print("Hello from Sandy! I hope you are going to enjoy your weekend :)")
 print (1+1)
 
